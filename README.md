@@ -1,5 +1,5 @@
 # Privacy Policy
-Facebook wants me to tell you about your data and how it is stored LOL.
+App does not need any type of user data to work so nothing is getting stored.
 
 This app does not store anything so there is nothing to delete 😆
 # How to use
